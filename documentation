@@ -1,0 +1,1 @@
+Let the users pick 3 numbers from 0 to 20. If the sum of those numbers is >= of 21 then that user loses, if multiple users pick a same number; then that number is added and multiplied by the number of people who picked it.
