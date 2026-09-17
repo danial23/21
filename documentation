@@ -1,1 +1,9 @@
-Let the users pick 3 numbers from 0 to 20. If the sum of those numbers is >= of 21 then that user loses, if multiple users pick a same number; then that number is added and multiplied by the number of people who picked it.
+Let the users pick 3 numbers from 0 to 19. If the sum of those numbers is >= of 21 then that user loses, if the users and the AI pick a same number; 
+-then that number is added together. The game is partially inspired by a game I played in elementary school but wasn't the same logic. This game is made for me to learn
+-git and softwares using git e.g. github, codeberg, etc. Not for showcasing my Python skills.
+Requirements: You will need a Python interpreter or a compiler to run this script. No hardware requirements to my knowledge (it's a simple logic game nothing fancy)
+Documentation update [2026/09/17]
+Possible future updates: Adding a GUI for user friendliness, -
+-fixing the error of running the script when asked for integers will get prevented but after a while re-runs it, new gamemodes, better AI, adding a rule to prevent the
+positive integers being entered by the user and the AI.
+Tell me any suggestions you would like for this game:)
